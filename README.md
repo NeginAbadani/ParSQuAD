@@ -1,5 +1,5 @@
 <span align="center">
-    <a href="https://www.kaggle.com/neginabadani/parsquad"><img alt="Kaggle" src="https://img.shields.io/static/v1?label=Kaggle&message=PersianQuAD&logo=Kaggle&color=20BEFF"/></a>
+    <a href="https://www.kaggle.com/neginabadani/parsquad"><img alt="Kaggle" src="https://img.shields.io/static/v1?label=Kaggle&message=ParSQuAD&logo=Kaggle&color=20BEFF"/></a>
 </span>
 
 # ParSQuAD: Persian Question Answering Dataset based on Machine Translation of SQuAD 2.0
